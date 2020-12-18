@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 📫 How to reach me:
   [Facebook](https://www.facebook.com/brayan.wilis)
   [Twitter](https://twitter.com/BrayanWilis)
- ⚡ Fun fact: i love to play Acoustic Guitar and develop a game in python
+⚡ Fun fact: i love to play Acoustic Guitar and develop a game in python

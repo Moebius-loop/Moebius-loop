@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Brayan Wilis
 
-🔭 I’m currently working on a porject about condominium administration called Jaguar
+🔭 I’m currently working on a project about a condominium administration web aplication called Projeto Jaguar
 
 🌱 I’m currently learning React.js, Python
 
